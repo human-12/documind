@@ -313,8 +313,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Email: support@documind.example.com
-- Documentation: https://docs.documind.example.com
+- Email: cafeofprogrammer@gmail.com
+- Linkedin: [Muhammad Faahem](https://www.linkedin.com/in/muhammad-faahem-760199219/)
 
 ---
 
